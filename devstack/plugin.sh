@@ -16,7 +16,7 @@
 GOROOT=${GOROOT:-/opt/go}
 
 # golang version. Skydive needs at least version 1.14
-GO_VERSION=${GO_VERSION:-1.14.x}
+GO_VERSION=${GO_VERSION:-1.14.15}
 
 # GOPATH where the go src, pkgs are installed
 GOPATH=/opt/stack/go
